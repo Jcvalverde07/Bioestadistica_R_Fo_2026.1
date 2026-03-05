@@ -5,4 +5,4 @@ Scripts en R de las clases de Bioestadística
 
 2/18/2024 el repositorio fue creado para el curso, en este estará todos scripts de las clases prescenciales del curso, complementario en esta bitácora se incluiran notas, fechas y detalles de como se ha de trabajar.
 
-3/5/2024, se crea archivo "Link_gallery" donde se iran agregando links de sitios web de interés para aprendizaje en R, además se colocaron los scripts de semana 1
+3/5/2024, se crea archivo "Link_gallery" donde se iran agregando links de sitios web de interés para aprendizaje en R, además se colocaron los scripts de semana 1 (Introducción R) y semana 3 (funciones R)
