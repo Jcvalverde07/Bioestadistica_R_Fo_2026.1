@@ -10,3 +10,4 @@ Scripts en R de las clases de Bioestadística
 3/12/2026, se agrega el script de R "03_tidyverse", correspondiente proceso de limpieza, estandarización de la base "data_class_04" que es un txt y se genera como salida una base datos excel estandatrizada y una base resumen.
 
 3/26/2026, se agrega el script en R "04_imput_data", correspondiente a como imputar datos faltantes, se usa base datos excel 04_cap_data
+4/9/2026, se incluyen script 05 y 06 correspondientes a familia apply y estadistica paramétrica
