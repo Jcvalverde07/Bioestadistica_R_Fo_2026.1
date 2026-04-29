@@ -11,3 +11,5 @@ Scripts en R de las clases de Bioestadística
 
 3/26/2026, se agrega el script en R "04_imput_data", correspondiente a como imputar datos faltantes, se usa base datos excel 04_cap_data
 4/9/2026, se incluyen script 05 y 06 correspondientes a familia apply y estadistica paramétrica
+4/15/2025, se agrega 07 correspondiente no paramétrico
+4/29/2026, se incluyen script de multivariados y regresiones (08 y 09)
